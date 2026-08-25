@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Lancy&#39;s GitHub Stats, Rank: C</title>
-        <desc id="descId">Total Stars Earned: 2, Total Commits  : 216, Total PRs: 4, Total PRs Merged: 2, Merged PRs Percentage: 50.00, Total PRs Reviewed: 0, Total Issues: 6, Total Discussions Started: 0, Total Discussions Answered: 0, PRs Commented: 0, PRs Reviewed: 0, Issues Commented: 9, Contributed to (last year): 8</desc>
+        <desc id="descId">Total Stars Earned: 2, Total Commits  : 218, Total PRs: 4, Total PRs Merged: 2, Merged PRs Percentage: 50.00, Total PRs Reviewed: 0, Total Issues: 8, Total Discussions Started: 0, Total Discussions Answered: 0, PRs Commented: 0, PRs Reviewed: 0, Issues Commented: 9, Contributed to (last year): 8</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 230.84844304286062;
+        stroke-dashoffset: 229.84185918541488;
       }
     }
   
@@ -177,7 +177,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >216</text>
+      >218</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -252,7 +252,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues"
-      >6</text>
+      >8</text>
     </g>
   </g><g transform="translate(0, 175)">
     <g class="stagger" style="animation-delay: 1500ms" transform="translate(25, 0)">
