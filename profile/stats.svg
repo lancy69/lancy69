@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Lancy&#39;s GitHub Stats, Rank: C</title>
-        <desc id="descId">Total Stars Earned: 2, Total Commits  : 379, Total PRs: 7, Total PRs Merged: 3, Merged PRs Percentage: 42.86, Total PRs Reviewed: 0, Total Issues: 13, Total Discussions Started: 0, Total Discussions Answered: 0, PRs Commented: 0, PRs Reviewed: 0, Issues Commented: 26, Contributed to (last year): 12</desc>
+        <title id="titleId">Lancy&#39;s GitHub Stats, Rank: C+</title>
+        <desc id="descId">Total Stars Earned: 2, Total Commits  : 381, Total PRs: 8, Total PRs Merged: 3, Merged PRs Percentage: 37.50, Total PRs Reviewed: 0, Total Issues: 13, Total Discussions Started: 0, Total Discussions Answered: 0, PRs Commented: 0, PRs Reviewed: 0, Issues Commented: 26, Contributed to (last year): 13</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 220.2949630194288;
+        stroke-dashoffset: 219.46531416768346;
       }
     }
   
@@ -143,7 +143,7 @@
         <g class="rank-text">
           
         <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
-          C
+          C+
         </text>
       
         </g>
@@ -177,7 +177,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >379</text>
+      >381</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -192,7 +192,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >7</text>
+      >8</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -222,7 +222,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >42.86 %</text>
+      >37.50 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
@@ -342,7 +342,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >12</text>
+      >13</text>
     </g>
   </g>
     </svg>
