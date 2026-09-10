@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Lancy&#39;s GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 2, Total Commits  : 403, Total PRs: 8, Total PRs Merged: 4, Merged PRs Percentage: 50.00, Total PRs Reviewed: 0, Total Issues: 16, Total Discussions Started: 1, Total Discussions Answered: 0, PRs Commented: 0, PRs Reviewed: 0, Issues Commented: 27, Contributed to (last year): 15</desc>
+        <desc id="descId">Total Stars Earned: 2, Total Commits  : 403, Total PRs: 8, Total PRs Merged: 4, Merged PRs Percentage: 50.00, Total PRs Reviewed: 0, Total Issues: 16, Total Discussions Started: 1, Total Discussions Answered: 0, PRs Commented: 0, PRs Reviewed: 0, Issues Commented: 31, Contributed to (last year): 15</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -334,7 +334,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues_commented"
-      >27</text></a>
+      >31</text></a>
     </g>
   </g><g transform="translate(0, 300)">
     <g class="stagger" style="animation-delay: 2250ms" transform="translate(25, 0)">
